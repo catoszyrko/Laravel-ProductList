@@ -4,7 +4,9 @@ In this environment you will find a product list, a database with category & pro
 
 ## Setup
 1 - Create your database (Local or not)
+
 2 - Go to .env and add your credentials 
+
 3 - Run php artisan migrate command to add all tables and content 
 
 ## Laravel License
